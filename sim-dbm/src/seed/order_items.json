@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "order_id": 1,
+    "product_id": 1,
+    "packing_design": "Polos",
+    "quantity": 500,
+    "unit_price": 1200
+  },
+  {
+    "id": 2,
+    "order_id": 1,
+    "product_id": 2,
+    "packing_design": "Polos",
+    "quantity": 500,
+    "unit_price": 1000
+  },
+  {
+    "id": 3,
+    "order_id": 2,
+    "product_id": 4,
+    "packing_design": "Polos",
+    "quantity": 800,
+    "unit_price": 1575
+  },
+  {
+    "id": 4,
+    "order_id": 2,
+    "product_id": 6,
+    "packing_design": "Polos",
+    "quantity": 600,
+    "unit_price": 840
+  },
+  {
+    "id": 5,
+    "order_id": 2,
+    "product_id": 3,
+    "packing_design": "Polos",
+    "quantity": 1000,
+    "unit_price": 315
+  },
+  {
+    "id": 6,
+    "order_id": 3,
+    "product_id": 1,
+    "packing_design": "Logo Hotel",
+    "quantity": 600,
+    "unit_price": 1440
+  },
+  {
+    "id": 7,
+    "order_id": 3,
+    "product_id": 8,
+    "packing_design": "Polos",
+    "quantity": 300,
+    "unit_price": 3325
+  },
+  {
+    "id": 8,
+    "order_id": 4,
+    "product_id": 7,
+    "packing_design": "Polos",
+    "quantity": 2000,
+    "unit_price": 165
+  },
+  {
+    "id": 9,
+    "order_id": 4,
+    "product_id": 5,
+    "packing_design": "Polos",
+    "quantity": 1500,
+    "unit_price": 220
+  },
+  {
+    "id": 10,
+    "order_id": 4,
+    "product_id": 2,
+    "packing_design": "Polos",
+    "quantity": 400,
+    "unit_price": 1100
+  },
+  {
+    "id": 11,
+    "order_id": 5,
+    "product_id": 1,
+    "packing_design": "Polos",
+    "quantity": 300,
+    "unit_price": 1200
+  },
+  {
+    "id": 12,
+    "order_id": 5,
+    "product_id": 2,
+    "packing_design": "Polos",
+    "quantity": 300,
+    "unit_price": 1000
+  },
+  {
+    "id": 13,
+    "order_id": 5,
+    "product_id": 4,
+    "packing_design": "Polos",
+    "quantity": 300,
+    "unit_price": 1500
+  },
+  {
+    "id": 14,
+    "order_id": 5,
+    "product_id": 6,
+    "packing_design": "Polos",
+    "quantity": 300,
+    "unit_price": 800
+  },
+  {
+    "id": 15,
+    "order_id": 6,
+    "product_id": 1,
+    "packing_design": "Logo Hotel",
+    "quantity": 500,
+    "unit_price": 1500
+  },
+  {
+    "id": 16,
+    "order_id": 6,
+    "product_id": 2,
+    "packing_design": "Logo Hotel",
+    "quantity": 500,
+    "unit_price": 1200
+  },
+  {
+    "id": 17,
+    "order_id": 7,
+    "product_id": 8,
+    "packing_design": "Polos",
+    "quantity": 200,
+    "unit_price": 3675
+  },
+  {
+    "id": 18,
+    "order_id": 7,
+    "product_id": 1,
+    "packing_design": "Polos",
+    "quantity": 400,
+    "unit_price": 1260
+  },
+  {
+    "id": 19,
+    "order_id": 8,
+    "product_id": 3,
+    "packing_design": "Polos",
+    "quantity": 800,
+    "unit_price": 285
+  },
+  {
+    "id": 20,
+    "order_id": 8,
+    "product_id": 7,
+    "packing_design": "Polos",
+    "quantity": 1000,
+    "unit_price": 145
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "bill_id": 2,
+    "noted_by": 3,
+    "note_date": "2026-11-05",
+    "result": "Pihak hotel (contoh) menyatakan akan membayar pekan depan.",
+    "promise_date": "2026-11-12"
+  },
+  {
+    "id": 2,
+    "bill_id": 3,
+    "noted_by": 3,
+    "note_date": "2026-11-05",
+    "result": "Dibayar sebagian secara tunai, sisanya dijanjikan akhir pekan (contoh).",
+    "promise_date": "2026-11-13"
+  }
+]

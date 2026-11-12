@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "bill_id": 1,
+    "recorded_by": 2,
+    "payment_date": "2026-10-26",
+    "amount": 1100000,
+    "method": "transfer",
+    "notes": "Pembayaran contoh"
+  },
+  {
+    "id": 2,
+    "bill_id": 3,
+    "recorded_by": 2,
+    "payment_date": "2026-11-05",
+    "amount": 400000,
+    "method": "cash",
+    "notes": "Pembayaran sebagian (contoh)"
+  }
+]

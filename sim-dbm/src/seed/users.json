@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Dedi (akun contoh)",
+    "username": "dedi",
+    "password": "demo123",
+    "roles": [
+      "direktur",
+      "courier"
+    ],
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Silvi (akun contoh)",
+    "username": "silvi",
+    "password": "demo123",
+    "roles": [
+      "admin"
+    ],
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Yoni (akun contoh)",
+    "username": "yoni",
+    "password": "demo123",
+    "roles": [
+      "marketing",
+      "courier"
+    ],
+    "active": true
+  }
+]

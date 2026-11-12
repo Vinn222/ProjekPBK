@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "code": "PRD-001",
+    "name": "Sabun",
+    "unit": "pcs",
+    "active": true
+  },
+  {
+    "id": 2,
+    "code": "PRD-002",
+    "name": "Sampo",
+    "unit": "pcs",
+    "active": true
+  },
+  {
+    "id": 3,
+    "code": "PRD-003",
+    "name": "Korek Kuping",
+    "unit": "pcs",
+    "active": true
+  },
+  {
+    "id": 4,
+    "code": "PRD-004",
+    "name": "Sikat Gigi",
+    "unit": "pcs",
+    "active": true
+  },
+  {
+    "id": 5,
+    "code": "PRD-005",
+    "name": "Tusuk Gigi",
+    "unit": "pcs",
+    "active": true
+  },
+  {
+    "id": 6,
+    "code": "PRD-006",
+    "name": "Sisir",
+    "unit": "pcs",
+    "active": true
+  },
+  {
+    "id": 7,
+    "code": "PRD-007",
+    "name": "Sedotan",
+    "unit": "pcs",
+    "active": true
+  },
+  {
+    "id": 8,
+    "code": "PRD-008",
+    "name": "Sendal",
+    "unit": "pcs",
+    "active": true
+  }
+]

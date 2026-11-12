@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "code": "CUS-001",
+    "name": "Hotel Contoh A",
+    "address": "Alamat contoh hotel A",
+    "phone": "0000-0000-0001",
+    "contact_name": "Kontak Contoh A",
+    "exchange_day": "monday",
+    "active": true
+  },
+  {
+    "id": 2,
+    "code": "CUS-002",
+    "name": "Hotel Contoh B",
+    "address": "Alamat contoh hotel B",
+    "phone": "0000-0000-0002",
+    "contact_name": "Kontak Contoh B",
+    "exchange_day": "monday",
+    "active": true
+  },
+  {
+    "id": 3,
+    "code": "CUS-003",
+    "name": "Hotel Contoh C",
+    "address": "Alamat contoh hotel C",
+    "phone": "0000-0000-0003",
+    "contact_name": "Kontak Contoh C",
+    "exchange_day": "monday",
+    "active": true
+  },
+  {
+    "id": 4,
+    "code": "CUS-004",
+    "name": "Hotel Contoh D",
+    "address": "Alamat contoh hotel D",
+    "phone": "0000-0000-0004",
+    "contact_name": "Kontak Contoh D",
+    "exchange_day": "monday",
+    "active": true
+  },
+  {
+    "id": 5,
+    "code": "CUS-005",
+    "name": "Hotel Contoh E",
+    "address": "Alamat contoh hotel E",
+    "phone": "0000-0000-0005",
+    "contact_name": "Kontak Contoh E",
+    "exchange_day": "monday",
+    "active": true
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "order_id": 1,
+    "exchange_date": "2026-10-12",
+    "status": "paid"
+  },
+  {
+    "id": 2,
+    "order_id": 2,
+    "exchange_date": "2026-10-19",
+    "status": "awaiting_payment"
+  },
+  {
+    "id": 3,
+    "order_id": 3,
+    "exchange_date": "2026-10-26",
+    "status": "awaiting_payment"
+  },
+  {
+    "id": 4,
+    "order_id": 4,
+    "exchange_date": "2026-10-28",
+    "status": "awaiting_payment"
+  },
+  {
+    "id": 5,
+    "order_id": 5,
+    "exchange_date": "2026-11-02",
+    "status": "awaiting_payment"
+  },
+  {
+    "id": 6,
+    "order_id": 6,
+    "exchange_date": null,
+    "status": "not_exchanged"
+  },
+  {
+    "id": 7,
+    "order_id": 7,
+    "exchange_date": null,
+    "status": "not_exchanged"
+  },
+  {
+    "id": 8,
+    "order_id": 8,
+    "exchange_date": null,
+    "status": "not_exchanged"
+  }
+]

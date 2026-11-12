@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "order_id": 1,
+    "courier_id": 1,
+    "delivery_date": "2026-10-07",
+    "status": "delivered",
+    "delivered_date": "2026-10-07",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "order_id": 2,
+    "courier_id": 3,
+    "delivery_date": "2026-10-14",
+    "status": "delivered",
+    "delivered_date": "2026-10-14",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "order_id": 3,
+    "courier_id": 1,
+    "delivery_date": "2026-10-16",
+    "status": "delivered",
+    "delivered_date": "2026-10-16",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "order_id": 4,
+    "courier_id": 3,
+    "delivery_date": "2026-10-22",
+    "status": "delivered",
+    "delivered_date": "2026-10-22",
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "order_id": 5,
+    "courier_id": 1,
+    "delivery_date": "2026-10-30",
+    "status": "delivered",
+    "delivered_date": "2026-10-30",
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "order_id": 6,
+    "courier_id": 3,
+    "delivery_date": "2026-11-07",
+    "status": "delivered",
+    "delivered_date": "2026-11-07",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "order_id": 7,
+    "courier_id": 3,
+    "delivery_date": "2026-11-12",
+    "status": "scheduled",
+    "delivered_date": null,
+    "notes": ""
+  }
+]
